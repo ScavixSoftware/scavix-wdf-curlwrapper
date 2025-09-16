@@ -5,4 +5,9 @@ It contains logic to download data using PHPs CURL extension.
 
 Installation
 ============
-Install the package with `composer require {{name}}`.
+Install the package with `composer require scavix/wdf-curlwrapper`.
+
+Dependencies
+------------
+* [scavix/wdf-core (^1.0.1)](https://packagist.org/packages/scavix/wdf-core#v1.0.1)
+* [ext-curl (*)](https://packagist.org/packages/ext-curl#v)
